@@ -1,0 +1,11 @@
+{
+  "name": "quiz-app",
+  "version": "1.0.0",
+  "description": "quiz app pour enigme club falcon",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "abdelhamid CHEBEL (Responsable robotique)",
+  "license": "ISC"
+}
